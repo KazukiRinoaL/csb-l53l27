@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://kazukirinoal.github.io/csb-l53l27/static/js/main.ad84e7c4.chunk.js",
-    "main.js.map": "https://kazukirinoal.github.io/csb-l53l27/static/js/main.ad84e7c4.chunk.js.map",
+    "main.js": "https://kazukirinoal.github.io/csb-l53l27/static/js/main.5d906c74.chunk.js",
+    "main.js.map": "https://kazukirinoal.github.io/csb-l53l27/static/js/main.5d906c74.chunk.js.map",
     "runtime-main.js": "https://kazukirinoal.github.io/csb-l53l27/static/js/runtime-main.f4da5a54.js",
     "runtime-main.js.map": "https://kazukirinoal.github.io/csb-l53l27/static/js/runtime-main.f4da5a54.js.map",
     "static/js/2.13acf53f.chunk.js": "https://kazukirinoal.github.io/csb-l53l27/static/js/2.13acf53f.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.f4da5a54.js",
     "static/js/2.13acf53f.chunk.js",
-    "static/js/main.ad84e7c4.chunk.js"
+    "static/js/main.5d906c74.chunk.js"
   ]
 }
